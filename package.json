@@ -4,7 +4,6 @@
   "description": "Display live2D model as a sprite in pixi.js.",
   "main": "src/index.js",
   "scripts": {
-    "prepublish": "npm run build",
     "build": "webpack --progress --colors --devtool source-map",
     "build-min": "webpack --progress --colors --devtool source-map --optimize-minimize",
     "build-watch": "webpack --progress --colors --devtool source-map --watch",
