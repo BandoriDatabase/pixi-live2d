@@ -236,8 +236,8 @@ L2DBaseModel.prototype.loadTexture     = function(gl, no/*int*/, path/*String*/,
 L2DBaseModel.prototype._loadTexture = function(gl, model, no, path, callback) {
 // load textures
 var loadedImage = new Image();
-loadedImage.crossorigin = "anonymous";
 loadedImage.src = path;
+loadedImage.crossOrigin = '';
 
 var thisRef = this;
 loadedImage.onload = () => {

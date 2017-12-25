@@ -1,5 +1,5 @@
 {
-  "name": "pixi-live2d",
+  "name": "bandori-pixi-live2d",
   "version": "1.2.1",
   "description": "Display live2D model as a sprite in pixi.js.",
   "main": "src/index.js",
@@ -18,13 +18,13 @@
     "anime"
   ],
   "author": "Icemic Jia <bingfeng.web@gmail.com>",
-  "homepage": "https://github.com/avgjs/pixi-live2d",
+  "homepage": "https://github.com/BandoriDatabase/pixi-live2d",
   "bugs": {
-    "url": "https://github.com/avgjs/pixi-live2d/issues"
+    "url": "https://github.com/BandoriDatabase/pixi-live2d/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/avgjs/pixi-live2d.git"
+    "url": "https://github.com/BandoriDatabase/pixi-live2d.git"
   },
   "license": "MIT",
   "dependencies": {},

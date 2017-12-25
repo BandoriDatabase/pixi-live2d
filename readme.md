@@ -1,6 +1,6 @@
-# pixi-live2d
+# bandori-pixi-live2d
 
-Display live2D model as a sprite in [pixi.js](https://github.com/pixijs/pixi.js).
+Display live2D model as a sprite in [pixi.js](https://github.com/pixijs/pixi.js), based on [pixi-live2d](https://github.com/avgjs/pixi-live2d)
 
 --------------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Pixi-live2d is a plugin for pixi.js for displaying live2D model as a sprite in p
 ## Installation
 
 ```bash
-npm install pixi-live2d
+npm install bandori-pixi-live2d
 ```
 
 **Attention**
