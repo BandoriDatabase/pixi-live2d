@@ -1,6 +1,6 @@
 {
   "name": "bandori-pixi-live2d",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Display live2D model as a sprite in pixi.js.",
   "main": "src/index.js",
   "scripts": {
