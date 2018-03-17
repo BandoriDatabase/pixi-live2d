@@ -6,23 +6,23 @@
  *  (c) Live2D Inc. All rights reserved.
  */
 
- import {
-   UtSystem,
-   UtDebug,
-   LDTransform,
-   LDGL,
-   Live2D,
-   Live2DModelWebGL,
-   Live2DModelJS,
-   Live2DMotion,
-   MotionQueueManager,
-   PhysicsHair,
-   AMotion,
-   PartsDataID,
-   DrawDataID,
-   BaseDataID,
-   ParamID
-} from './live2d';
+//  import {
+//    UtSystem,
+//    UtDebug,
+//    LDTransform,
+//    LDGL,
+//    Live2D,
+//    Live2DModelWebGL,
+//    Live2DModelJS,
+//    Live2DMotion,
+//    MotionQueueManager,
+//    PhysicsHair,
+//    AMotion,
+//    PartsDataID,
+//    DrawDataID,
+//    BaseDataID,
+//    ParamID
+// } from './live2d';
 import { loadBytes } from './netUtils';
 
 //============================================================

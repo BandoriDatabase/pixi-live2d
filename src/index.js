@@ -1,20 +1,20 @@
-import {
-  UtSystem,
-  UtDebug,
-  LDTransform,
-  LDGL,
-  Live2D,
-  Live2DModelWebGL,
-  Live2DModelJS,
-  Live2DMotion,
-  MotionQueueManager,
-  PhysicsHair,
-  AMotion,
-  PartsDataID,
-  DrawDataID,
-  BaseDataID,
-  ParamID
-} from '../src/lib/live2d';
+// import {
+//   UtSystem,
+//   UtDebug,
+//   LDTransform,
+//   LDGL,
+//   Live2D,
+//   Live2DModelWebGL,
+//   Live2DModelJS,
+//   Live2DMotion,
+//   MotionQueueManager,
+//   PhysicsHair,
+//   AMotion,
+//   PartsDataID,
+//   DrawDataID,
+//   BaseDataID,
+//   ParamID
+// } from '../src/lib/live2d';
 const PIXI = require('pixi.js');
 import LAppModel from './lib/LAppModel';
 import { Live2DFramework, L2DTargetPoint, L2DViewMatrix, L2DMatrix44 } from './lib/Live2DFramework';

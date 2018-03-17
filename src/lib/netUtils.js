@@ -1,4 +1,4 @@
-import { Live2DModelWebGL } from '../../src/lib/live2d';
+// import { Live2DModelWebGL } from '../../src/lib/live2d';
 
 export function loadBytes(path, type, callback) {
   var request = new XMLHttpRequest();
